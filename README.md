@@ -1,1 +1,0 @@
-# 1Day-1Baekjoon

@@ -1,5 +1,6 @@
-## :calendar: 1 일 1 백준 챌린지 :calendar:
-### :one: 단계별로 풀어보기
+<h2>:calendar: 1 일 1 백준 챌린지 :calendar:</h2>
+<h3>:one: 단계별로 풀어보기</h3>
+
 | DAY | CHECK | QUEST |
 | --- | ----- | ----- |
 | 2022.10.06 | :white_check_mark: | 입출력과 사칙연산 I : 2557, 10718, 1000, 1001, 10998 |

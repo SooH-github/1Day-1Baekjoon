@@ -13,4 +13,8 @@
 | 2022.10.13 | :white_check_mark: | 반복문 III : 10871, 10952, 10951, 1110 |
 | 2022.10.14 | :white_check_mark: | 1차원 배열 I : 10818, 2562, 3052 |
 | 2022.10.15 | :white_check_mark: | 1차원 배열 II : 1546, 8958, 4344 |
-| 2022.10.16 | :black_square_button: | 함수 : 15596, 4673, 1065 |
+| 2022.10.16 | :white_check_mark: | 함수 : 15596, 4673, 1065 |
+| 2022.10.17 | :black_square_button: | 문자열 I : 11654, 11720, 10809 |
+| 2022.10.18 | :black_square_button: | 문자열 II : 2675, 1157 |
+| 2022.10.19 | :black_square_button: | 문자열 III : 1152, 2908 |
+| 2022.10.20 | :black_square_button: | 문자열 IV : 5622, 2941, 1316 |

@@ -16,5 +16,5 @@
 | 2022.10.16 | :white_check_mark: | 함수 : 15596, 4673, 1065 |
 | 2022.10.17 | :white_check_mark: | 문자열 I : 11654, 11720, 10809 |
 | 2022.10.18 | :white_check_mark: | 문자열 II : 2675, 1157 |
-| 2022.10.19 | :white_check_mark: | 문자열 III : 1152, 2908 |
-| 2022.10.20 | :black_square_button: | 문자열 IV : 5622, 2941, 1316 |
+| 2022.10.19 | :white_check_mark: | 문자열 III : 1152, 2908, 5622 |
+| 2022.10.20 | :black_square_button: | 문자열 IV : 2941, 1316 |

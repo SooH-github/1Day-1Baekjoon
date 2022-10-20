@@ -17,4 +17,8 @@
 | 2022.10.17 | :white_check_mark: | 문자열 I : 11654, 11720, 10809 |
 | 2022.10.18 | :white_check_mark: | 문자열 II : 2675, 1157 |
 | 2022.10.19 | :white_check_mark: | 문자열 III : 1152, 2908, 5622 |
-| 2022.10.20 | :black_square_button: | 문자열 IV : 2941, 1316 |
+| 2022.10.20 | :white_check_mark: | 문자열 IV : 2941, 1316 |
+| 2022.10.21 | :black_square_button: | 기본 수학 1 I : 1712, 2292 |
+| 2022.10.22 | :black_square_button: | 기본 수학 1 II : 1193, 2869 |
+| 2022.10.23 | :black_square_button: | 기본 수학 1 III : 10250, 2775 |
+| 2022.10.24 | :black_square_button: | 기본 수학 1 IV : 2839, 10757 |

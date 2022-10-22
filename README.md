@@ -20,5 +20,5 @@
 | 2022.10.20 | :white_check_mark: | 문자열 IV : 2941, 1316 |
 | 2022.10.21 | :white_check_mark: | 기본 수학 1 I : 1712, 2292 |
 | 2022.10.22 | :white_check_mark: | 기본 수학 1 II : 1193, 2869 |
-| 2022.10.23 | :black_square_button: | 기본 수학 1 III : 10250, 2775 |
+| 2022.10.23 | :white_check_mark: | 기본 수학 1 III : 10250, 2775 |
 | 2022.10.24 | :black_square_button: | 기본 수학 1 IV : 2839, 10757 |

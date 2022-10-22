@@ -1,0 +1,14 @@
+line = 1
+x = int(input())
+
+while line < x:
+    x -= line
+    line += 1
+if line % 2 == 0 :
+    a = x
+    b = line - x + 1
+elif line % 2 == 1 :
+    a = line - x + 1
+    b = x
+
+print(f"{a}/{b}")

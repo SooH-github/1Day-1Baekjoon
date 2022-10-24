@@ -1,6 +1,24 @@
 <h2>:calendar: 1 일 1 백준 챌린지 :calendar:</h2>
 <h3>:two::zero::two::two: / :one::zero:</h3>
 
+| 일 | 월 | 화 | 수 | 목 | 금 | 토 |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| | | | | | | 1 |
+| | | | | | | |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| | | | |:white_check_mark:|:white_check_mark:|:white_check_mark:|
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+|:white_check_mark:|:white_check_mark:|:white_check_mark:| | | | |
+| 30 | 31 | | | | | |
+| | | | | | | |
+
+<details>
+<summary>풀이 목록</summary><br>
+
 | DAY | CHECK | QUEST |
 | --- | ----- | ----- |
 | 2022.10.06 | :white_check_mark: | 입출력과 사칙연산 I : 2557, 10718, 1000, 1001, 10998 |
@@ -26,3 +44,5 @@
 | 2022.10.26 | :black_square_button: | 2차원 배열 : 2738, 2566, 2563 |
 | 2022.10.27 | :black_square_button: | 클래스 1 I : 2920, 2475, 2577 |
 | 2022.10.28 | :black_square_button: | 클래스 1 II : 2741, 2742, 2920 |
+<br>
+</details>

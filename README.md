@@ -1,5 +1,5 @@
 <h2>:calendar: 1 일 1 백준 챌린지 :calendar:</h2>
-<h3>:one: 단계별로 풀어보기</h3>
+<h3>:two::zero::two::two: / :one::zero:</h3>
 
 | DAY | CHECK | QUEST |
 | --- | ----- | ----- |

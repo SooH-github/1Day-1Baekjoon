@@ -12,7 +12,7 @@
 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
-|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| | |
+|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| |
 | 30 | 31 | | | | | |
 | | | | | | | |
 
@@ -43,7 +43,7 @@
 | 2022.10.25 | :white_check_mark: | 1차원 배열 + : 10807, 5597 |
 | 2022.10.26 | :white_check_mark: | 새싹 I : 10699, 7287, 11382, 2420 |
 | 2022.10.27 | :white_check_mark: | 새싹 II : 2741, 10872, 2743 |
-| 2022.10.28 | :black_square_button: | 새싹 III : 2738, 2744, 2754, 11718 |
-| 2022.10.29 | :black_square_button: | 새싹 IV : 9086, 15964, 2475 |
+| 2022.10.28 | :white_check_mark: | 새싹 III : 9086, 2744, 2754, 11718 |
+| 2022.10.29 | :black_square_button: | 새싹 IV : 2738, 15964, 2475 |
 <br>
 </details>

@@ -6,7 +6,7 @@
 | | | 1 | 2 | 3 | 4 | 5 |
 | | |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|:white_check_mark:| | | | | | |
+|:white_check_mark:|:white_check_mark:| | | | | |
 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
 | | | | | | | |
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
@@ -25,7 +25,7 @@
 | 2022.11.04 | :white_check_mark: | 기본 수학 2 III : 4948, 9020 |
 | 2022.11.05 | :white_check_mark: | CLASS 1 II : 2742 |
 | 2022.11.06 | :white_check_mark: | CLASS 2 I : 1085, 4153 |
-| 2022.11.07 | | CLASS 2 II : 2231, 2798 |
+| 2022.11.07 | :white_check_mark: | CLASS 2 II : 2231, 2798 |
 | 2022.11.08 | | CLASS 2 III : 15829, 2609 |
 <br>
 </details>

@@ -24,11 +24,16 @@
 | 2022.11.03 | :white_check_mark: | CLASS 1 I : 2920, 2577 |
 | 2022.11.04 | :white_check_mark: | 기본 수학 2 III : 4948, 9020 |
 | 2022.11.05 | :white_check_mark: | CLASS 1 II : 2742 |
-| 2022.11.06 | :white_check_mark: | CLASS 2 I : 1085, 4153 |
-| 2022.11.07 | :white_check_mark: | CLASS 2 II : 2231, 2798 |
-| 2022.11.08 | :white_check_mark: | CLASS 2 III : 1181, 2609 |
-| 2022.11.09 | :white_check_mark: | CLASS 2 IV : 9012, 1920, 10773 |
-| 2022.11.10 | | CLASS 2 V : 1259, 1436, 11651 |
+| 2022.11.06 | :white_check_mark: | CLASS 2 : 1085, 4153 |
+| 2022.11.07 | :white_check_mark: | CLASS 2 : 2231, 2798 |
+| 2022.11.08 | :white_check_mark: | CLASS 2 : 1181, 2609 |
+| 2022.11.09 | :white_check_mark: | CLASS 2 : 9012, 1920, 10773 |
+| 2022.11.10 | | CLASS 2 : 1259, 1436, 11651 |
+| 2022.11.11 | | CLASS 2 : 10866, 10845 |
+| 2022.11.12 | | CLASS 2 : 10828 (:tram:) |
+| 2022.11.13 | | CLASS 2 : 10814 (:tram:) |
+| 2022.11.14 | | CLASS 2 : 2164, 2751, 10816 |
+
 <br>
 </details>
 <details>

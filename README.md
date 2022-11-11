@@ -29,10 +29,10 @@
 | 2022.11.08 | :white_check_mark: | CLASS 2 : 1181, 2609 |
 | 2022.11.09 | :white_check_mark: | CLASS 2 : 9012, 1920, 10773 |
 | 2022.11.10 | :white_check_mark: | CLASS 2 : 1259, 11651 |
-| 2022.11.11 | :white_check_mark: | CLASS 2 : 2164, 2751, 10816 |
+| 2022.11.11 | :white_check_mark: | CLASS 2 : 2164, 2751 |
 | 2022.11.12 | | CLASS 2 : 10828 (:tram:) |
 | 2022.11.13 | | CLASS 2 : 10814 (:tram:) |
-| 2022.11.14 | | CLASS 2 : |
+| 2022.11.14 | | CLASS 2 : 10816, 5522 |
 
 <br>
 </details>

@@ -6,7 +6,7 @@
 | | | 1 | 2 | 3 | 4 | 5 |
 | | |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| | |
+|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| |
 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
 | | | | | | | |
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
@@ -29,10 +29,10 @@
 | 2022.11.08 | :white_check_mark: | CLASS 2 : 1181, 2609 |
 | 2022.11.09 | :white_check_mark: | CLASS 2 : 9012, 1920, 10773 |
 | 2022.11.10 | :white_check_mark: | CLASS 2 : 1259, 11651 |
-| 2022.11.11 | | CLASS 2 : 10866, 10845 |
+| 2022.11.11 | :white_check_mark: | CLASS 2 : 2164, 2751, 10816 |
 | 2022.11.12 | | CLASS 2 : 10828 (:tram:) |
 | 2022.11.13 | | CLASS 2 : 10814 (:tram:) |
-| 2022.11.14 | | CLASS 2 : 2164, 2751, 10816 |
+| 2022.11.14 | | CLASS 2 : |
 
 <br>
 </details>

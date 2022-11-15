@@ -33,7 +33,12 @@
 | 2022.11.12 | :white_check_mark: | CLASS 2 : 10828 (:tram:) |
 | 2022.11.13 | :white_check_mark: | CLASS 2 : 10814 (:tram:) |
 | 2022.11.14 | :white_check_mark: | CLASS 2 : 10816, 5522 |
-
+| 2022.11.15 | | Bronze에서 세 개 이상 |
+| 2022.11.16 | | Bronze에서 세 개 이상 |
+| 2022.11.17 | | Bronze에서 세 개 이상 |
+| 2022.11.18 | | Bronze에서 세 개 이상 |
+| 2022.11.19 | | Bronze에서 세 개 이상 |
+| 2022.11.20 | | Bronze에서 세 개 이상 |
 <br>
 </details>
 <details>

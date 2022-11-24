@@ -10,7 +10,7 @@
 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
-|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| | | |
+|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| | |
 | 27 | 28 | 29 | 30 | | | |
 | | | | | | | |
 
@@ -42,7 +42,7 @@
 | 2022.11.21 | :white_check_mark: | Bronze에서 세 개 이상 |
 | 2022.11.22 | :white_check_mark: | Bronze에서 세 개 이상 |
 | 2022.11.23 | :white_check_mark: | Bronze에서 세 개 이상 |
-| 2022.11.24 | | Bronze에서 세 개 이상 |
+| 2022.11.24 | :white_check_mark: | Bronze에서 세 개 이상 |
 | 2022.11.25 | | Bronze에서 세 개 이상 |
 <br>
 </details>

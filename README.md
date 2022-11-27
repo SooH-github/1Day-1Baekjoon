@@ -12,7 +12,7 @@
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 27 | 28 | 29 | 30 | | | |
-| | | | | | | |
+|:white_check_mark:| | | | | | |
 
 <details>
 <summary>풀이 목록</summary><br>
@@ -45,7 +45,10 @@
 | 2022.11.24 | :white_check_mark: | Bronze에서 세 개 이상 |
 | 2022.11.25 | :white_check_mark: | Bronze에서 세 개 이상 |
 | 2022.11.26 | :white_check_mark: | Bronze에서 두 개 이상 |
-| 2022.11.27 | | Bronze에서 두 개 이상 |
+| 2022.11.27 | :white_check_mark: | Bronze에서 두 개 이상 |
+| 2022.11.28 | | Bronze에서 두 개 이상 |
+| 2022.11.29 | | Bronze에서 두 개 이상 |
+| 2022.11.30 | | Bronze에서 두 개 이상 |
 <br>
 </details>
 <details>

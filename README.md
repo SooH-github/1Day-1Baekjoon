@@ -1,5 +1,32 @@
 <h2>:calendar: 1 일 1 백준 챌린지 :calendar:</h2>
-<h3>:two::zero::two::two: / :one::one:</h3>
+<h3>:two::zero::two::two: / :one::two:</h3>
+
+| 일 | 월 | 화 | 수 | 목 | 금 | 토 |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| | | | | 1 | 2 | 3 |
+| | | | | | | |
+| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| | | | | | | |
+| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| | | | | | | |
+| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
+| | | | | | | |
+| 25 | 26 | 27 | 28 | 29 | 30 | 31 |
+| | | | | | | |
+
+<details>
+<summary>풀이 목록</summary><br>
+
+| DAY | CHECK | QUEST |
+| --- | ----- | ----- |
+| 2022.12.01 | | 두 문제 |
+| 2022.12.02 | | 두 문제 |
+| 2022.12.03 | | 두 문제 |
+<br>
+</details>
+
+<details>
+<summary><h3>:two::zero::two::two: / :one::one:</h3></summary>
 
 | 일 | 월 | 화 | 수 | 목 | 금 | 토 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -12,7 +39,7 @@
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 27 | 28 | 29 | 30 | | | |
-|:white_check_mark:|:white_check_mark:|:white_check_mark:| | | | |
+|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| | | |
 
 <details>
 <summary>풀이 목록</summary><br>
@@ -48,9 +75,11 @@
 | 2022.11.27 | :white_check_mark: | Bronze에서 두 개 이상 |
 | 2022.11.28 | :white_check_mark: | Bronze에서 두 개 이상 |
 | 2022.11.29 | :white_check_mark: | Bronze에서 두 개 이상 |
-| 2022.11.30 | | Bronze에서 두 개 이상 |
+| 2022.11.30 | :white_check_mark: | Bronze에서 두 개 이상 |
 <br>
 </details>
+</details>
+
 <details>
 <summary><h3>:two::zero::two::two: / :one::zero:</h3></summary>
 

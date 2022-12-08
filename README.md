@@ -6,7 +6,7 @@
 | | | | | 1 | 2 | 3 |
 | | | | |:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| | | |
+|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| | |
 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | | | | | | | |
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
@@ -26,7 +26,7 @@
 | 2022.12.05 | :white_check_mark: | 한 문제 |
 | 2022.12.06 | :white_check_mark: | 한 문제 |
 | 2022.12.07 | :white_check_mark: | 한 문제 |
-| 2022.12.08 | | 한 문제 |
+| 2022.12.08 | :white_check_mark: | 한 문제 |
 | 2022.12.09 | | 한 문제 |
 | 2022.12.10 | | 한 문제 |
 | 2022.12.11 | | 한 문제 |

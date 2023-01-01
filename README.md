@@ -1,12 +1,32 @@
 <h2>:calendar: 1 일 1 백준 챌린지 :calendar:</h2>
-<h3>:two::zero::two::two: / :one::two:</h3>
+<h3>:two::zero::two::three: / :zero::one:</h3>
+
+| 일 | 월 | 화 | 수 | 목 | 금 | 토 |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| | | | | | | |
+| 8 | 9 | 10 | 11 | 12 | 13 | 14 |
+| | | | | | | |
+| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
+| | | | | | | |
+| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
+| | | | | | | |
+| 29 | 30 | 31 | | | | |
+| | | | | | | |
+
+
+<details>
+<summary><h3>:two::zero::two::two:</h3></summary>
+
+<details>
+<summary><h3>:two::zero::two::two: / :one::two:</h3></summary>
 
 | 일 | 월 | 화 | 수 | 목 | 금 | 토 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | | | | | 1 | 2 | 3 |
 | | | | |:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:]|:white_check_mark:|
+|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | | | | | | | |
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
@@ -14,24 +34,6 @@
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 | | | | | | | |
 
-<details>
-<summary>풀이 목록</summary><br>
-
-| DAY | CHECK | QUEST |
-| --- | ----- | ----- |
-| 2022.12.01 | :white_check_mark: | 두 문제 |
-| 2022.12.02 | :white_check_mark: | 두 문제 |
-| 2022.12.03 | :white_check_mark: | 두 문제 |
-| 2022.12.04 | :white_check_mark: | 한 문제 |
-| 2022.12.05 | :white_check_mark: | 한 문제 |
-| 2022.12.06 | :white_check_mark: | 한 문제 |
-| 2022.12.07 | :white_check_mark: | 한 문제 |
-| 2022.12.08 | :white_check_mark: | 한 문제 |
-| 2022.12.09 | :white_check_mark: | 한 문제 |
-| 2022.12.10 | :white_check_mark: | 한 문제 |
-| 2022.12.11 | | 한 문제 |
-| 2022.12.12 | | 한 문제 |
-<br>
 </details>
 
 <details>
@@ -139,5 +141,6 @@
 | 2022.10.30 | :white_check_mark: | 2차원 배열 I : 2566, 2563 |
 | 2022.10.31 | :white_check_mark: | 2차원 배열 II : 2738 |
 <br>
+</details>
 </details>
 </details>

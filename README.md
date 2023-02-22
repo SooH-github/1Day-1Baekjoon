@@ -10,7 +10,7 @@
 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-|:white_check_mark:|:white_check_mark:|:white_check_mark:| | | | |
+|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| | | |
 | 26 | 27 | 28 | | | | |
 | | | | | | | |
 

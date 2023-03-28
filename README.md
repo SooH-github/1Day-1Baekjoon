@@ -13,7 +13,7 @@
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |:white_check_mark:|:white_check_mark:|:white_check_mark:| |:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 26 | 27 | 28 | 29 | 30 | 31 | |
-|:white_check_mark:|:white_check_mark:| | | | | |
+|:white_check_mark:|:white_check_mark:|:white_check_mark:| | | | |
 
 <details>
 <summary><h3>:two::zero::two::three: / :zero::two:</h3></summary>

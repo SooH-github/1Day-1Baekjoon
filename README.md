@@ -15,7 +15,7 @@
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 |:white_check_mark:| |:white_check_mark:|:white_check_mark:|:white_check_mark:| |:white_check_mark:|
 | 30 | | | | | | |
-| | | | | | | |
+|:white_check_mark:| | | | | | |
 
 
 <details>

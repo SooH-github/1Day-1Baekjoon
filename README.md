@@ -1,6 +1,24 @@
 <h2>:calendar: 1 일 1 백준 챌린지 :calendar:</h2>
 
-<h3>:two::zero::two::three: / :zero::six:</h3>
+<h3>:two::zero::two::three: / :zero::seven:</h3>
+
+| 일 | 월 | 화 | 수 | 목 | 금 | 토 |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| | | | |  |  | 1 |
+| | | | | | | |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|:white_check_mark:| | | |  |  |  |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| | | | |  |  |  |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| | | | |  |  |  |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| | | | |  |  |  |
+| 30 | 31 | |  | | |
+| | | | |  |  |  |
+
+<details>
+<summary><h3>:two::zero::two::three: / :zero::six:</h3></summary>
 
 | 일 | 월 | 화 | 수 | 목 | 금 | 토 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -13,7 +31,8 @@
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 25 | 26 | 27 | 28 | 29 | 30 | |
-| |:white_check_mark:|:white_check_mark:| |:white_check_mark:|:white_check_mark:| |
+| |:white_check_mark:|:white_check_mark:| |:white_check_mark:|:white_check_mark:|:white_check_mark:|
+</details>
 
 <details>
 <summary><h3>:two::zero::two::three: / :zero::five:</h3></summary>

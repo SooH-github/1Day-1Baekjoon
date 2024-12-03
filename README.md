@@ -1,6 +1,8 @@
 <h2>:calendar: 1 일 1 백준 챌린지 :calendar:</h2>
 
-<h3>:two::zero::two::three: / :zero::seven:</h3>
+
+<details>
+<summary><h3>:two::zero::two::three: / :zero::seven:</h3></summary>
 
 | 일 | 월 | 화 | 수 | 목 | 금 | 토 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -16,6 +18,7 @@
 | | | | |  |  |  |
 | 30 | 31 | |  | | |
 | | | | |  |  |  |
+</details>
 
 <details>
 <summary><h3>:two::zero::two::three: / :zero::six:</h3></summary>
